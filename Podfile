@@ -7,5 +7,6 @@ target 'FirebaseStudySample' do
 
   # Pods for FirebaseStudySample
 	pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
 
 end
